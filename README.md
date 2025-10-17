@@ -1,6 +1,6 @@
 # Build-Your-Own-VectorDB 🗃️
 
-**Build-Your-Own-VectorDB** is a fun weekend project created in just 2 days to challenge myself to build a vector database from scratch. The main goal was to experiment with some interesting ideas around **embedding-based automatic knowledge graph creation**, tackling fundamental problems faced in RAG (Retrieval-Augmented Generation) pipelines.  
+**Build-Your-Own-VectorDB** is a fun weekend project created in just 2 days to challenge myself to build a vector database from scratch. The main goal was to experiment with some interesting ideas around **embedding-based automatic knowledge graph creation**, tackling fundamental problems faced in RAG (Retrieval-Augmented Generation).  
 
 I didn’t think I would be able to spin up a vector database from scratch within a day and my crazy idea would solve the fundamental problems in RAG, but here we are! 💪
 
